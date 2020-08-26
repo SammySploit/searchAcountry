@@ -24,6 +24,36 @@
   color: white;
 }
 
+.card {
+  width: 22%;
+  margin: 25px 39%;
+  
+}
+
+.cards {
+  width: 20%;
+  margin: 3px 0 12px 40%;
+}
+
+.cap{
+  text-align: left;
+}
+
+.caps{
+  text-align: left;
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 5px;
+  color: grey;
+}
+
+
+.bgimg {
+  background-image: url('./Components/map.jpg');
+  height: 766px;
+}
+
+
 .App-link {
   color: #61dafb;
 }
