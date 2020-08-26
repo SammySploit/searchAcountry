@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/searchAcountry/static/css/main.f50630fb.chunk.css",
+    "main.css": "/searchAcountry/static/css/main.61e8d71e.chunk.css",
     "main.js": "/searchAcountry/static/js/main.445bc722.chunk.js",
     "main.js.map": "/searchAcountry/static/js/main.445bc722.chunk.js.map",
     "runtime-main.js": "/searchAcountry/static/js/runtime-main.59c74791.js",
@@ -8,16 +8,16 @@
     "static/js/2.1d50db08.chunk.js": "/searchAcountry/static/js/2.1d50db08.chunk.js",
     "static/js/2.1d50db08.chunk.js.map": "/searchAcountry/static/js/2.1d50db08.chunk.js.map",
     "index.html": "/searchAcountry/index.html",
-    "precache-manifest.a6dbece431d411aaf8537747e3ffa646.js": "/searchAcountry/precache-manifest.a6dbece431d411aaf8537747e3ffa646.js",
+    "precache-manifest.f156f5de6cbf9455e72ca21f5bf3c222.js": "/searchAcountry/precache-manifest.f156f5de6cbf9455e72ca21f5bf3c222.js",
     "service-worker.js": "/searchAcountry/service-worker.js",
-    "static/css/main.f50630fb.chunk.css.map": "/searchAcountry/static/css/main.f50630fb.chunk.css.map",
+    "static/css/main.61e8d71e.chunk.css.map": "/searchAcountry/static/css/main.61e8d71e.chunk.css.map",
     "static/js/2.1d50db08.chunk.js.LICENSE.txt": "/searchAcountry/static/js/2.1d50db08.chunk.js.LICENSE.txt",
     "static/media/App.css": "/searchAcountry/static/media/map.747fe92c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.59c74791.js",
     "static/js/2.1d50db08.chunk.js",
-    "static/css/main.f50630fb.chunk.css",
+    "static/css/main.61e8d71e.chunk.css",
     "static/js/main.445bc722.chunk.js"
   ]
 }
